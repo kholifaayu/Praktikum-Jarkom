@@ -17,4 +17,6 @@ hasil percobaan:
 ![hasil gambar](../assets/image/week3,3.png)
 ![hasil gambar](../assets/image/week3,4.png)
 
+4. wireshark selesai dan http bisa digunakan
+
 
