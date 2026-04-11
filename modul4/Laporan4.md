@@ -21,4 +21,10 @@
 5. buka browser lalu search http://www.ietf.org
 ![hasil gambar](../assets/image/mod4,4.png)
 
+6. hentikan capture pada wireshark
+
+![hasil gambar](../assets/image/mod4,5.png)
+
+7. selesai 
+
 
