@@ -15,3 +15,7 @@
 3. lalu buka wireshark
 ![hasil gambar](../assets/image/mod4,2.png)
 
+4. lalu pilih filter ketik ip.addres, dan ketik wifi lalu buka
+![hasil gambar](../assets/image/mod4,3.png)
+
+
