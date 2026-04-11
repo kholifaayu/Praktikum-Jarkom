@@ -8,3 +8,7 @@
 
 ![hasil gambar](../assets/image/mod4.png)
 
+2. lalu coba lagi ketik Ipconfig di command prompt
+
+![hasil gambar](../assets/image/mod4,1.png)
+
