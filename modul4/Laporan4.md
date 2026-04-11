@@ -12,3 +12,6 @@
 
 ![hasil gambar](../assets/image/mod4,1.png)
 
+3. lalu buka wireshark
+![hasil gambar](../assets/image/mod4,2.png)
+
