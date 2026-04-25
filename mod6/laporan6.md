@@ -6,4 +6,4 @@
 # Langkah Praktikum 
 1.jalankan browser, Buka http://gaia.cs.umass.edu/wireshark-labs/alice.txt dan
 unduh salinan ASCII dari naskah Alice in Wonderland. Simpan file tersebut di laptop. lalu muncul tampilan gambar dibawah:
-![hasil gambar](../assets/image/mod6.png)
+![hasil gambar](../assets/image/mod6.jpeg)
