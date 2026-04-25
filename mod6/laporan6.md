@@ -38,4 +38,15 @@ bawah jendela Wireshark, kemudian cari segmen yang berisi "POST" di bagian field
 Segmen ini ditandai dengan flag PSH, ACK dan memiliki panjang data sebesar 811 byte.)
 ![hasil gambar](../assets/image/mod6,5.jpeg)
 
-3. 
+3. Berapa panjang setiap enam segmen TCP pertama? (Panjang segmen pertama adalah 811 byte.)
+
+4. Berapa jumlah minimum ruang buffer tersedia yang disarankan kepada penerima dan
+diterima untuk seluruh trace? Apakah kurangnya ruang buffer penerima pernah
+menghambat pengiriman? ( Window size (calculated) = 65280
+Nilai minimum buffer penerima yang terdeteksi adalah 65280 byte.
+Tidak terdapat indikasi bahwa kekurangan buffer menghambat pengiriman data.)
+
+5. Berapa banyak data yang biasanya diakui oleh penerima dalam ACK? Dapatkah anda
+mengidentifikasi kasus-kasus di mana penerima melakukan ACK untuk setiap segmen yang
+diterima? ( Penerima biasanya mengakui data secara kumulatif, bukan per segmen.
+Dalam trace ini, ACK mengakui sejumlah byte tertentu (misalnya ~800–1500 byte), tergantung ukuran segmen yang diterima.)
