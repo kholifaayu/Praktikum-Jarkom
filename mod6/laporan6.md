@@ -19,4 +19,7 @@ ditampilkan di browser.
 ![hasil gambar](../assets/image/mod6,2.jpeg)
 ![hasil gambar](../assets/image/mod6,3.jpeg)
 
-3. 
+3. Hentikan penangkapan paket pada Wireshark. Jendela Wireshark akan terlihat. klik pada filter lalu ketik "TCP"
+seperti gambar di bawah.
+![hasil gambar](../assets/image/mod6,4.jpeg)
+
