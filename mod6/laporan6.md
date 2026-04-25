@@ -17,3 +17,6 @@ alice.txt file”
 server gaia.cs.umass.edu. Setelah file diunggah, pesan berisi ucapan selamat akan
 ditampilkan di browser.
 ![hasil gambar](../assets/image/mod6,2.jpeg)
+![hasil gambar](../assets/image/mod6,3.jpeg)
+
+3. 
