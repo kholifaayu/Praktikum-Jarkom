@@ -31,4 +31,11 @@ mentransfer file ke gaia.cs.umass.edu? Cara paling mudah menjawab pertanyaan ini
 dengan memilih sebuah pesan HTTP dan meneliti detail paket TCP yang digunakan untuk
 membawa pesan HTTP tersebut. (128.119.245.12)
 
-2.  
+
+2.  Berapa nomor urut segmen TCP yang berisi perintah HTTP POST? Perhatikan bahwa untuk
+menemukan perintah POST, Anda harus menelusuri content field milik paket di bagian
+bawah jendela Wireshark, kemudian cari segmen yang berisi "POST" di bagian field DATAnya. (Segment TCP yang berisi HTTP POST memiliki Sequence Number = 1.
+Segmen ini ditandai dengan flag PSH, ACK dan memiliki panjang data sebesar 811 byte.)
+![hasil gambar](../assets/image/mod6,5.jpeg)
+
+3. 
