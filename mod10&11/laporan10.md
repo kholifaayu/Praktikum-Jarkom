@@ -28,4 +28,14 @@
 untuk melepas IP DHCP: lalu ketik 'ipconfig /release'
 ![hasil gambar](../assets/image/mod11.png)
 
+2. buka Wireshark lalu mulai capture di interface Wi-Fi/Ethernet
+3. setelah capture berjalan, minta IP baru:atau di wireshark klik pada filter 'dhcp'
+![hasil gambar](../assets/image/mod11.2.png)
+
+4. atau bisa minta IP baru di commad prompt 'ipconfig /renew'
+![hasil gambar](../assets/image/mod11.3.png)
+
+5. selesai
+
+
 
