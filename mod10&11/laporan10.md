@@ -14,5 +14,7 @@
 3. setelah berhasil, lalu buka lagi file open baru yang di suruh oleh modulnya. 
 ![hasil gambar](../assets/image/mod10.2.jpeg)
 
-4. 
+4. setelah itu open lagi file IP dari modulnya, lalu di filter klik 'ip.src==192.168.1.102' . dan lihat hasilnya
+![hasil gambar](../assets/image/mod10.3.jpeg)
+![hasil gambar](../assets/image/mo10.4.jpeg)
 
