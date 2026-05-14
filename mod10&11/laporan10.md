@@ -18,3 +18,14 @@
 ![hasil gambar](../assets/image/mod10.3.jpeg)
 ![hasil gambar](../assets/image/mo10.4.jpeg)
 
+5. selesai
+
+# laporan modul 11 DHCP
+
+
+# langkah praktikum
+1. pertama buka Command Prompt sebagai Administrator
+untuk melepas IP DHCP: lalu ketik 'ipconfig /release'
+![hasil gambar](../assets/image/mod11.png)
+
+
