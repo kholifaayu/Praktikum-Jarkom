@@ -20,5 +20,19 @@
 ![hasil gambar](../assets/image/modul%2012.3%20.png)
 7. selesai
 
-# langkah praktikum modul 13
-1. 
+# langkah praktikum modul 13 Ethernet dan ARP
+1. pastikan cache browser Anda kosong. Untuk melakukan hal ini pada Mozilla
+Firefox V3, pilih Tools -> Clear Recent History dan centang kotak untuk Cache. Untuk
+Internet Explorer, pilih Tools -> Internet Options -> Delete Files. Mulai sniffer paket
+Wireshark.
+
+2. Masukkan URL berikut ke dalam browser Anda
+http://gaia.cs.umass.edu/wireshark-labs/HTTP-ethereal-lab-file3.html
+
+3. hentikan penangkapan paket wireshark.
+![hasil gambar](../assets/image/modul%2013.jpeg)
+
+![hasil gambar](../assets/image/modul%2013.1.jpeg)
+![hasil gambar](../assets/image/modul%2013.2.jpeg)
+
+4. selesai
